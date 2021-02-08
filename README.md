@@ -1,10 +1,12 @@
-# conversorFluterando
+# Conversor(aprimorado) de moeda proposto pelo "Curso de Flutter" da comunidade Fluterando(by Jacob).
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A proposta inicial do app Conversor de moeda, era usar dados estáticos.
+Buscando desafios e aprimorar o conhecimento, fiz ele com informações dinâmicas e reais, consumindo uma API disponibilizada em https://api.hgbrasil.com.
+Aproveitei o projeto(mesmo que simples), para praticar também o uso do GetX para gestão de estado.
 
 A few resources to get you started if this is your first Flutter project:
 
